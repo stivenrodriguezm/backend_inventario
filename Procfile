@@ -1,0 +1,1 @@
+web: gunicorn backend_inventario.wsgi --log-file -
