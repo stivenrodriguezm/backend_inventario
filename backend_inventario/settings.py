@@ -86,10 +86,10 @@ WSGI_APPLICATION = 'backend_inventario.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'inventory',
-        'USER': 'root',
-        'PASSWORD': 'Bicicleta123',
-        'HOST': 'localhost',
+        'NAME': 'u756180748_lottus_stock',
+        'USER': 'u756180748_inventario',
+        'PASSWORD': 'LottusFurniture12!',
+        'HOST': 'us-imm-web535.main-hosting.eu',
         'PORT': '3306',
     }
 }
